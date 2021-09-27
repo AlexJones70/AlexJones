@@ -138,7 +138,6 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: -6787804962216606099, guid: 1192eea80e2514a45b5fce86f13fffae, type: 2}
   - {fileID: -8122777484314488468, guid: 0398c40cc4f6a8444ab8c7f4df0b8573, type: 2}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -614,11 +613,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: AlexJones
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\AJones1\Desktop\AlexJones\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 005bd0b4efd2d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: AlexJones
