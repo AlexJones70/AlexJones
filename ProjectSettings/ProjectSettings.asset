@@ -613,7 +613,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: AlexJones
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\Users\AJones1\Desktop\AlexJones\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
